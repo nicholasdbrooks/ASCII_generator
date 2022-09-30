@@ -3,4 +3,4 @@ Takes in an image file, converts it to ASCII text, and creates a txt file with t
 
 
 
-Instructions coming... once I finish the generator 
+Instructions coming... once I finish the generator (which it is not atm)
